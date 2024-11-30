@@ -1,1 +1,1 @@
-# Algebraic-Rank-of-Tensors-in-Statistical-Models
+This is basically a new project of mine of the study of Tensors, Algebraic statistics and Macaulay2.
